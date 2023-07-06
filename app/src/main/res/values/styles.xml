@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="newDiaryButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:drawableStart">@drawable/icon1</item>
+    </style>
+
+    <style name="saveDiaryButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:drawableStart">@drawable/icon2</item>
+    </style>
+
+    <style name="authorInfoButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:drawableStart">@drawable/icon3</item>
+    </style>
+
+    <style name="upPictureButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:drawableStart">@drawable/icon4</item>
+    </style>
+
+</resources>
